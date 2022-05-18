@@ -1,10 +1,7 @@
 ## Prosodic alignment for off-screen automatic dubbing
 
-This repository contains the sample dubbed video outputs along with the metadata files. 
+This is the repository accompanying the cited paper below. It contains the sample dubbed video outputs (demos/) using the latest prosodic alignment model  along with the respective metadata files (metadata/). 
 
-Be sure to:
-
-* Edit your repository description on GitHub
 
 ## Security
 
